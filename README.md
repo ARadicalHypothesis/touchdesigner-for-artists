@@ -1,4 +1,4 @@
-# TouchDesigner for Artists
+
 
 ![Hand-drawn sketch of a TouchDesigner network turning a tracked hand into numbers and particles, next to a terminal showing the fingertip channels](assets/splash.png)
 
