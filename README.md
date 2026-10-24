@@ -1,5 +1,7 @@
 # TouchDesigner for Artists
 
+![Hand-drawn sketch of a TouchDesigner network turning a tracked hand into numbers and particles, next to a terminal showing the fingertip channels](assets/splash.png)
+
 An open, four-session introduction to [TouchDesigner](https://derivative.ca) for artists and designers with no programming background. By the end you have built a working interactive system: a webcam watching you, MediaPipe finding your hands in the image, thousands of particles responding to where you point, and a finished image on screen.
 
 Each session is one hands-on workshop of about an hour. Slides, starting files and homework are included for every session, together with the teaching notes that explain the places where beginners get stuck.
