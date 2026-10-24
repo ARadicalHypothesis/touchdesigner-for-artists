@@ -4,7 +4,9 @@ An open, four-session introduction to [TouchDesigner](https://derivative.ca) for
 
 Each session is one hands-on workshop of about an hour. Slides, starting files and homework are included for every session, together with the teaching notes that explain the places where beginners get stuck.
 
-Created by [Mattia Casalegno](https://www.mattiacasalegno.net). First taught in Summer 2026 as the workshop strand of *Digital Media & Interaction: Installations*.
+Created by [Mattia Casalegno](https://www.mattiacasalegno.net).
+
+**Course history.** Developed and first taught in Summer 2026 as the workshop strand of *Digital Media & Interaction: Installations* (four weekly workshops, August–September 2026). Published here as an open resource in October 2026. The [v1.0 release](../../releases/tag/v1.0) holds the materials as taught.
 
 ## What you build
 
