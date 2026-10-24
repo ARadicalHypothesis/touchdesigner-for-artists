@@ -1,0 +1,8 @@
+# TouchDesigner autosaves and backups
+Backup/
+*.toe.bak
+CrashAutoSave*
+*.dmp
+.DS_Store
+Thumbs.db
+desktop.ini
